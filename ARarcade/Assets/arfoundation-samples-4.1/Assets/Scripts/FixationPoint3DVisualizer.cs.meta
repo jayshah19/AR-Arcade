@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5e7e56387af65eb4f981d48823dbee54
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_FixationRayPrefab: {fileID: 1529176408204727125, guid: 8339cb70cc6014347bd14cfea9e60601,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

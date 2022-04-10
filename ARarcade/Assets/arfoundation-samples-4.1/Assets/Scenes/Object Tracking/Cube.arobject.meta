@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ac47ad44d5ee5464a910edd9f09f05d6
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: arobject
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83c01a3d17ad7440f8d45cb53155f4b2, type: 3}
